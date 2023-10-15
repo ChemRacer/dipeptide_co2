@@ -1,0 +1,25 @@
+Job started at   Sat Jun 3 03:46:48 EDT 2023
+  on machine     clr0832
+  by user        asylvanu
+  in directory   /lustre/isaac/scratch/asylvanu/dipeptides/MD_DFT/CREST_DFT/DIPEPTIDES/DIPEPTIDES_CO2_COgroup/Inputfiles_CO_group/AA_AA_CO2_370/AA_AA_370_2_CO2
+
+ CAUTION: this file will not be removed if user or the system decides 
+          to kill the job !!!
+          To let jobex stop smoothly, simple create
+          an empty file called \'stop\' in this directory
+          jobex will stop at the next possible step
+
+job.start file has been created with details about the job type: 
+
+Sat Jun  3 03:46:48 EDT 2023
+jobex WAS CALLED AS: jobex -c 1000
+AN OPTIMIZATION WITH MAX. 1000 CYCLES WILL BE PERFORMED
+CONVERGENCY CRITERION FOR TOTAL SCF-ENERGY IS 10**(-6)
+CONVERGENCY CRITERION FOR MAXIMUM NORM OF SCF-ENERGY GRADIENT IS 10**(-3)
+CONVERGENCY CRITERION FOR MAXIMUM NORM OF BASIS SET GRADIENT IS 10**(-3)
+PROCEDURE WILL START WITH A dscf like STEP
+LOAD MODULES WILL BE TAKEN FROM DIRECTORY /sw/isaac/applications/turbomole/7.2.1/rhel8_cascadelake_binary/TURBOMOLE/bin/em64t-unknown-linux-gnu_smp
+DSCF  = /sw/isaac/applications/turbomole/7.2.1/rhel8_cascadelake_binary/TURBOMOLE/bin/em64t-unknown-linux-gnu_smp/ridft
+GRAD  = /sw/isaac/applications/turbomole/7.2.1/rhel8_cascadelake_binary/TURBOMOLE/bin/em64t-unknown-linux-gnu_smp/rdgrad
+STATPT = /sw/isaac/applications/turbomole/7.2.1/rhel8_cascadelake_binary/TURBOMOLE/bin/em64t-unknown-linux-gnu_smp/statpt
+

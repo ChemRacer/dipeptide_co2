@@ -1,0 +1,33 @@
+
+
+
+a coord
+ired
+*
+b all def2-TZVPP
+*
+eht
+y
+0
+y
+scf
+conv
+8
+iter
+300
+
+ri
+on
+m 1500
+*
+dft
+on
+func pbe0
+grid m4
+*
+dsp
+on
+bj
+*
+*
+
