@@ -1,6 +1,7 @@
 # dipeptide_co2
 Repository for "In Silico Screening of CO2-Dipeptide Interactions for Bioinsired Carbon Capture" 
 Update after the article goes online
+```
 .
 ├── Amino acid energies: 20_AA_CO2_interaction_energy_DFT_PBE0D3BJ_def2TZVPP.xlsx (From: Accurate Interaction Energies of CO2 with the 20 Naturally Occurring Amino Acids)[https://doi.org/10.1002/cphc.202300027]
 ├── Spread sheet containing dipeptide data: 400_dipeptides_interaction_energy_UPDATED2.xlsx
@@ -15,4 +16,4 @@ Update after the article goes online
 ├── Where we create the spreadsheets for the analysis: interaction_sites.ipynb
 ├── LICENSE
 └── README.md
-
+```
